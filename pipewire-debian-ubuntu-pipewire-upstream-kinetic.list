@@ -1,0 +1,2 @@
+# deb https://ppa.launchpadcontent.net/pipewire-debian/pipewire-upstream/ubuntu/ lunar main # disabled on upgrade to lunar
+# deb-src https://ppa.launchpadcontent.net/pipewire-debian/pipewire-upstream/ubuntu/ kinetic main
